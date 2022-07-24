@@ -17,3 +17,7 @@
 
 * 標準ライブラリ：https://deno.land/std
 * サードパティライブラリ：https://deno.land/x
+
+## 参考資料
+
+*  「[モダンな JavaScript/TypeScript 実行環境 Deno](https://kt3k.github.io/talk_devsumi_2022_deno/#1) - 日野澤歓也さん twitter [@kt3k](https://twitter.com/kt3k)」 
