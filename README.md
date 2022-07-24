@@ -12,3 +12,8 @@
     - HTTPサーバ：https://examples.deno.land/http-server
       - ルーティング：https://examples.deno.land/http-server-routing
       - ストリーミング：https://examples.deno.land/http-server-streaming
+
+## メモ
+
+* 標準ライブラリ：https://deno.land/std
+* サードパティライブラリ：https://deno.land/x
