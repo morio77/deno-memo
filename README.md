@@ -18,6 +18,16 @@
 * 標準ライブラリ：https://deno.land/std
 * サードパティライブラリ：https://deno.land/x
 
+## 開発環境
+
+* VSCode + Deno(拡張機能)
+
+## フレームワーク
+
+### フロント
+
+* aleph.js：https://github.com/alephjs/aleph.js
+
 ## 参考資料
 
 *  「[モダンな JavaScript/TypeScript 実行環境 Deno](https://kt3k.github.io/talk_devsumi_2022_deno/#1) - 日野澤歓也さん twitter [@kt3k](https://twitter.com/kt3k)」 
